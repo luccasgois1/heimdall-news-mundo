@@ -8,3 +8,4 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 
 - [Peña pede 72 horas para se defender de impeachment no Paraguai](materias/2026-11-06/2026-11-06-01.md)
 - [Ameaças falsas de bomba chegam a TVs após afetar voos na Europa](materias/2026-11-06/2026-11-06-02.md)
+- [Trump nomeia Stephen Miller chefe de gabinete após derrota nas eleições](materias/2026-11-06/2026-11-06-03.md)
