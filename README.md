@@ -9,6 +9,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Paraguai já pagou 1 milhão de clientes do Ueno Bank, diz Alliana](materias/2026-11-07/2026-11-07-01.md)
 - [Estados Unidos oferecem US$ 20 milhões por dados nucleares do Irã](materias/2026-11-07/2026-11-07-02.md)
 - [Peña depõe após passar a noite em quartel por protestos no Paraguai](materias/2026-11-07/2026-11-07-03.md)
+- [Israel: Herzog escolhe rival de Netanyahu para tentar formar governo](materias/2026-11-07/2026-11-07-04.md)
 
 ## 6 de novembro de 2026
 
