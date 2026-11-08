@@ -9,6 +9,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Estados Unidos declaram apoio a Alliana, novo presidente do Paraguai](materias/2026-11-08/2026-11-08-01.md)
 - [Itaipu paraguaia tinha US$ 182 milhões no Ueno Bank e aciona a Justiça](materias/2026-11-08/2026-11-08-02.md)
 - [Trump convida Dana White, do UFC, para porta-voz da Casa Branca](materias/2026-11-08/2026-11-08-03.md)
+- [Papa Leão XIV chega à Argentina e é recebido por Milei](materias/2026-11-08/2026-11-08-04.md)
 
 ## 7 de novembro de 2026
 
