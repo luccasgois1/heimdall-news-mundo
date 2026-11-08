@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 8 de novembro de 2026
 
 - [Estados Unidos declaram apoio a Alliana, novo presidente do Paraguai](materias/2026-11-08/2026-11-08-01.md)
+- [Itaipu paraguaia tinha US$ 182 milhões no Ueno Bank e aciona a Justiça](materias/2026-11-08/2026-11-08-02.md)
 
 ## 7 de novembro de 2026
 
