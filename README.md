@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 9 de novembro de 2026
+
+- [Nvidia investiga se CEO foi alvo de espionagem e ações caem](materias/2026-11-09/2026-11-09-01.md)
+
 ## 8 de novembro de 2026
 
 - [Estados Unidos declaram apoio a Alliana, novo presidente do Paraguai](materias/2026-11-08/2026-11-08-01.md)
