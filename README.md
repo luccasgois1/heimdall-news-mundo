@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 9 de novembro de 2026
 
 - [Nvidia investiga se CEO foi alvo de espionagem e ações caem](materias/2026-11-09/2026-11-09-01.md)
+- [China prorroga trégua comercial com os Estados Unidos por dois meses](materias/2026-11-09/2026-11-09-02.md)
 
 ## 8 de novembro de 2026
 
