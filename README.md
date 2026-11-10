@@ -9,6 +9,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Ucrânia, Rússia e Estados Unidos retomam negociações em Abu Dhabi](materias/2026-11-10/2026-11-10-01.md)
 - [Estados Unidos retiram aviões de base britânica após ameaça do Irã](materias/2026-11-10/2026-11-10-02.md)
 - [Irmão de Viktor Orbán é preso na Hungria em caso de tráfico de pessoas](materias/2026-11-10/2026-11-10-03.md)
+- [Paraguai devolve dinheiro a 93% dos clientes do Ueno Bank](materias/2026-11-10/2026-11-10-04.md)
 
 ## 9 de novembro de 2026
 
