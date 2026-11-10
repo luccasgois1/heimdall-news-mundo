@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 10 de novembro de 2026
+
+- [Ucrânia, Rússia e Estados Unidos retomam negociações em Abu Dhabi](materias/2026-11-10/2026-11-10-01.md)
+
 ## 9 de novembro de 2026
 
 - [Nvidia investiga se CEO foi alvo de espionagem e ações caem](materias/2026-11-09/2026-11-09-01.md)
