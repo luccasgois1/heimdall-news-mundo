@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 10 de novembro de 2026
 
 - [Ucrânia, Rússia e Estados Unidos retomam negociações em Abu Dhabi](materias/2026-11-10/2026-11-10-01.md)
+- [Estados Unidos retiram aviões de base britânica após ameaça do Irã](materias/2026-11-10/2026-11-10-02.md)
 
 ## 9 de novembro de 2026
 
