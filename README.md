@@ -8,6 +8,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 
 - [Negociações entre Rússia e Ucrânia terminam sem acordo em Abu Dhabi](materias/2026-11-11/2026-11-11-01.md)
 - [Irã classifica Marinha e Força Aérea da Argentina como terroristas](materias/2026-11-11/2026-11-11-02.md)
+- [Espanha tem primeira greve geral em 14 anos, contra o custo da moradia](materias/2026-11-11/2026-11-11-03.md)
 
 ## 10 de novembro de 2026
 
