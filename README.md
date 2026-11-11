@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 11 de novembro de 2026
 
 - [Negociações entre Rússia e Ucrânia terminam sem acordo em Abu Dhabi](materias/2026-11-11/2026-11-11-01.md)
+- [Irã classifica Marinha e Força Aérea da Argentina como terroristas](materias/2026-11-11/2026-11-11-02.md)
 
 ## 10 de novembro de 2026
 
