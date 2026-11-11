@@ -10,6 +10,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Estados Unidos retiram aviões de base britânica após ameaça do Irã](materias/2026-11-10/2026-11-10-02.md)
 - [Irmão de Viktor Orbán é preso na Hungria em caso de tráfico de pessoas](materias/2026-11-10/2026-11-10-03.md)
 - [Paraguai devolve dinheiro a 93% dos clientes do Ueno Bank](materias/2026-11-10/2026-11-10-04.md)
+- [Câmara dos Estados Unidos barra impeachment do secretário de Defesa](materias/2026-11-10/2026-11-10-05.md)
 
 ## 9 de novembro de 2026
 
