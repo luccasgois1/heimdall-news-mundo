@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 11 de novembro de 2026
+
+- [Negociações entre Rússia e Ucrânia terminam sem acordo em Abu Dhabi](materias/2026-11-11/2026-11-11-01.md)
+
 ## 10 de novembro de 2026
 
 - [Ucrânia, Rússia e Estados Unidos retomam negociações em Abu Dhabi](materias/2026-11-10/2026-11-10-01.md)
