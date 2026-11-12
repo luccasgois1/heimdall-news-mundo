@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 12 de novembro de 2026
+
+- [Ataque de Israel a hospital em Gaza deixa 6 mortos](materias/2026-11-12/2026-11-12-01.md)
+
 ## 11 de novembro de 2026
 
 - [Negociações entre Rússia e Ucrânia terminam sem acordo em Abu Dhabi](materias/2026-11-11/2026-11-11-01.md)
