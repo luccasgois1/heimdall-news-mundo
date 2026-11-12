@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 12 de novembro de 2026
 
 - [Ataque de Israel a hospital em Gaza deixa 6 mortos](materias/2026-11-12/2026-11-12-01.md)
+- [Chefe da Nvidia renuncia após caso com suposta espiã chinesa](materias/2026-11-12/2026-11-12-02.md)
 
 ## 11 de novembro de 2026
 
