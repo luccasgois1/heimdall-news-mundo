@@ -10,6 +10,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Irã classifica Marinha e Força Aérea da Argentina como terroristas](materias/2026-11-11/2026-11-11-02.md)
 - [Espanha tem primeira greve geral em 14 anos, contra o custo da moradia](materias/2026-11-11/2026-11-11-03.md)
 - [Embaixador da Rússia nos Estados Unidos morre aos 66 anos](materias/2026-11-11/2026-11-11-04.md)
+- [Irã ameaça atacar bases dos Estados Unidos na Europa](materias/2026-11-11/2026-11-11-05.md)
 
 ## 10 de novembro de 2026
 
