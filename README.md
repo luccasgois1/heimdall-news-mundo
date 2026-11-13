@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 13 de novembro de 2026
+
+- [Trump tira Vance das negociações e diz não precisar de acordo com o Irã](materias/2026-11-13/2026-11-13-01.md)
+
 ## 12 de novembro de 2026
 
 - [Ataque de Israel a hospital em Gaza deixa 6 mortos](materias/2026-11-12/2026-11-12-01.md)
