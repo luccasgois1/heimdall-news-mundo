@@ -8,6 +8,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 
 - [Trump tira Vance das negociações e diz não precisar de acordo com o Irã](materias/2026-11-13/2026-11-13-01.md)
 - [Parlamento da Espanha aprova decreto que suspende despejos até 2030](materias/2026-11-13/2026-11-13-02.md)
+- [Israel proíbe a entrada de Mélenchon e Mathilde Panot no país](materias/2026-11-13/2026-11-13-03.md)
 
 ## 12 de novembro de 2026
 
