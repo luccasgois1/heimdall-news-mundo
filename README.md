@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 14 de novembro de 2026
 
 - [Trump, Putin e Xi Jinping terão reunião a três na China](materias/2026-11-14/2026-11-14-01.md)
+- [EUA sugerem saída do Donbass em troca de entrada na Otan, diz Zelensky](materias/2026-11-14/2026-11-14-02.md)
 
 ## 13 de novembro de 2026
 
