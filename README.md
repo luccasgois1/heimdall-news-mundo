@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 14 de novembro de 2026
+
+- [Trump, Putin e Xi Jinping terão reunião a três na China](materias/2026-11-14/2026-11-14-01.md)
+
 ## 13 de novembro de 2026
 
 - [Trump tira Vance das negociações e diz não precisar de acordo com o Irã](materias/2026-11-13/2026-11-13-01.md)
