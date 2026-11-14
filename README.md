@@ -10,6 +10,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Parlamento da Espanha aprova decreto que suspende despejos até 2030](materias/2026-11-13/2026-11-13-02.md)
 - [Israel proíbe a entrada de Mélenchon e Mathilde Panot no país](materias/2026-11-13/2026-11-13-03.md)
 - [Paraguai acusa Peña de liderar associação criminosa no caso Ueno Bank](materias/2026-11-13/2026-11-13-04.md)
+- [Estados Unidos param todas as decolagens após falha no controle aéreo](materias/2026-11-13/2026-11-13-05.md)
 
 ## 12 de novembro de 2026
 
