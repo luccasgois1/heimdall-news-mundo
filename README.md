@@ -9,6 +9,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Trump, Putin e Xi Jinping terão reunião a três na China](materias/2026-11-14/2026-11-14-01.md)
 - [EUA sugerem saída do Donbass em troca de entrada na Otan, diz Zelensky](materias/2026-11-14/2026-11-14-02.md)
 - [Itália multa a Meta em 805 milhões de euros por acesso a fotos](materias/2026-11-14/2026-11-14-03.md)
+- [EUA atribuem pane aérea a troca de cabos e descartam ataque hacker](materias/2026-11-14/2026-11-14-04.md)
 
 ## 13 de novembro de 2026
 
