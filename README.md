@@ -10,6 +10,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [EUA sugerem saída do Donbass em troca de entrada na Otan, diz Zelensky](materias/2026-11-14/2026-11-14-02.md)
 - [Itália multa a Meta em 805 milhões de euros por acesso a fotos](materias/2026-11-14/2026-11-14-03.md)
 - [EUA atribuem pane aérea a troca de cabos e descartam ataque hacker](materias/2026-11-14/2026-11-14-04.md)
+- [França tem quinto sábado de protestos contra o custo de vida](materias/2026-11-14/2026-11-14-05.md)
 
 ## 13 de novembro de 2026
 
