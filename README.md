@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 15 de novembro de 2026
 
 - [Canadá anuncia US$ 400 milhões para fundo de florestas tropicais](materias/2026-11-15/2026-11-15-01.md)
+- [Milei confirma que disputará a reeleição na Argentina em 2027](materias/2026-11-15/2026-11-15-02.md)
 
 ## 14 de novembro de 2026
 
