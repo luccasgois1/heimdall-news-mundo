@@ -10,6 +10,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Milei confirma que disputará a reeleição na Argentina em 2027](materias/2026-11-15/2026-11-15-02.md)
 - [Irã ataca o Bahrein com drones pela segunda vez em três dias](materias/2026-11-15/2026-11-15-03.md)
 - [Congresso dos EUA quer barrar chips para a China após caso Nvidia](materias/2026-11-15/2026-11-15-04.md)
+- [Governo Trump pede 50 bilhões de dólares ao Congresso após pane aérea](materias/2026-11-15/2026-11-15-05.md)
 
 ## 14 de novembro de 2026
 
