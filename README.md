@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 16 de novembro de 2026
+
+- [Lula se reúne com Sánchez em Madri a 13 dias da eleição na Espanha](materias/2026-11-16/2026-11-16-01.md)
+
 ## 15 de novembro de 2026
 
 - [Canadá anuncia US$ 400 milhões para fundo de florestas tropicais](materias/2026-11-15/2026-11-15-01.md)
