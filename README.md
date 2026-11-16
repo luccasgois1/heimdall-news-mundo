@@ -8,6 +8,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 
 - [Lula se reúne com Sánchez em Madri a 13 dias da eleição na Espanha](materias/2026-11-16/2026-11-16-01.md)
 - [Israel mata comandante do Hamas em Gaza durante o cessar-fogo](materias/2026-11-16/2026-11-16-02.md)
+- [EUA exigem licença para vender chips avançados a data centers no Brasil](materias/2026-11-16/2026-11-16-03.md)
 
 ## 15 de novembro de 2026
 
