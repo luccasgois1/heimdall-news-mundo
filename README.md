@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 17 de novembro de 2026
+
+- [Japão protesta contra a Rússia após aviões violarem seu espaço aéreo](materias/2026-11-17/2026-11-17-01.md)
+
 ## 16 de novembro de 2026
 
 - [Lula se reúne com Sánchez em Madri a 13 dias da eleição na Espanha](materias/2026-11-16/2026-11-16-01.md)
