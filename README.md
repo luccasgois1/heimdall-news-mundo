@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 17 de novembro de 2026
 
 - [Japão protesta contra a Rússia após aviões violarem seu espaço aéreo](materias/2026-11-17/2026-11-17-01.md)
+- [Trump diz que Kim Jong Un quer ir à China para cúpula com Xi e Putin](materias/2026-11-17/2026-11-17-02.md)
 
 ## 16 de novembro de 2026
 
