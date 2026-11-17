@@ -10,6 +10,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Israel mata comandante do Hamas em Gaza durante o cessar-fogo](materias/2026-11-16/2026-11-16-02.md)
 - [EUA exigem licença para vender chips avançados a data centers no Brasil](materias/2026-11-16/2026-11-16-03.md)
 - [Ucrânia faz o maior ataque com drones contra a Rússia desde 2022](materias/2026-11-16/2026-11-16-04.md)
+- [Oposição de Israel acusa Netanyahu de tentativa de golpe](materias/2026-11-16/2026-11-16-05.md)
 
 ## 15 de novembro de 2026
 
