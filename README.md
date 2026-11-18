@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 18 de novembro de 2026
+
+- [Vitória no Alasca dá aos democratas 56 cadeiras no Senado dos EUA](materias/2026-11-18/2026-11-18-01.md)
+
 ## 17 de novembro de 2026
 
 - [Japão protesta contra a Rússia após aviões violarem seu espaço aéreo](materias/2026-11-17/2026-11-17-01.md)
