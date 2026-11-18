@@ -9,6 +9,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Vitória no Alasca dá aos democratas 56 cadeiras no Senado dos EUA](materias/2026-11-18/2026-11-18-01.md)
 - [Trump chega à China e cumprimenta Putin na véspera da reunião com Xi](materias/2026-11-18/2026-11-18-02.md)
 - [Oposição a Netanyahu elege presidente do Parlamento de Israel](materias/2026-11-18/2026-11-18-03.md)
+- [Estados Unidos e Venezuela anunciam acordo de cooperação militar](materias/2026-11-18/2026-11-18-04.md)
 
 ## 17 de novembro de 2026
 
