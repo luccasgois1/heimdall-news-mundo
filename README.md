@@ -10,6 +10,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Trump diz que Kim Jong Un quer ir à China para cúpula com Xi e Putin](materias/2026-11-17/2026-11-17-02.md)
 - [China promete contramedidas contra regra dos EUA sobre chips](materias/2026-11-17/2026-11-17-03.md)
 - [Presidente da Mongólia anuncia renúncia após acusação de propina](materias/2026-11-17/2026-11-17-04.md)
+- [Estados Unidos bombardeiam base de mísseis do Irã no Estreito de Ormuz](materias/2026-11-17/2026-11-17-05.md)
 
 ## 16 de novembro de 2026
 
