@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 19 de novembro de 2026
 
 - [Xi defende o fim das armas nucleares em reunião com Trump e Putin](materias/2026-11-19/2026-11-19-01.md)
+- [Corte da ONU conclui que Mianmar cometeu genocídio contra rohingyas](materias/2026-11-19/2026-11-19-02.md)
 
 ## 18 de novembro de 2026
 
