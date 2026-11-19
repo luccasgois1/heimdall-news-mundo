@@ -9,6 +9,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Xi defende o fim das armas nucleares em reunião com Trump e Putin](materias/2026-11-19/2026-11-19-01.md)
 - [Corte da ONU conclui que Mianmar cometeu genocídio contra rohingyas](materias/2026-11-19/2026-11-19-02.md)
 - [Paraguai demite diretor de Itaipu por depósitos no Ueno Bank](materias/2026-11-19/2026-11-19-03.md)
+- [Dinamarca ratifica acordo militar com Estados Unidos sobre Groenlândia](materias/2026-11-19/2026-11-19-04.md)
 
 ## 18 de novembro de 2026
 
