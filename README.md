@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 20 de novembro de 2026
 
 - [Líderes europeus rejeitam paz na Ucrânia decidida sem a Europa](materias/2026-11-20/2026-11-20-01.md)
+- [Rússia mata oito na Ucrânia em ataque após ameaça de Putin](materias/2026-11-20/2026-11-20-02.md)
 
 ## 19 de novembro de 2026
 
