@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 20 de novembro de 2026
+
+- [Líderes europeus rejeitam paz na Ucrânia decidida sem a Europa](materias/2026-11-20/2026-11-20-01.md)
+
 ## 19 de novembro de 2026
 
 - [Xi defende o fim das armas nucleares em reunião com Trump e Putin](materias/2026-11-19/2026-11-19-01.md)
