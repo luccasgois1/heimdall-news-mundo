@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 23 de novembro de 2026
 
 - [Conferência do clima termina sem acordo pela primeira vez desde 2009](materias/2026-11-23/2026-11-23-01.md)
+- [Democratas têm maior bancada na Câmara dos Estados Unidos desde 1992](materias/2026-11-23/2026-11-23-02.md)
 
 ## 20 de novembro de 2026
 
