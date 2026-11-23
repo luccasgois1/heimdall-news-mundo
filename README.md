@@ -8,6 +8,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 
 - [Conferência do clima termina sem acordo pela primeira vez desde 2009](materias/2026-11-23/2026-11-23-01.md)
 - [Democratas têm maior bancada na Câmara dos Estados Unidos desde 1992](materias/2026-11-23/2026-11-23-02.md)
+- [Ucrânia diz ter afundado navio de guerra russo em porto da Líbia](materias/2026-11-23/2026-11-23-03.md)
 
 ## 20 de novembro de 2026
 
