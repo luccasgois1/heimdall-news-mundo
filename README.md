@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 24 de novembro de 2026
 
 - [Supremo da Espanha anistia Puigdemont a seis dias das eleições](materias/2026-11-24/2026-11-24-01.md)
+- [Carro-bomba fere 23 na Colômbia na véspera dos 10 anos da paz](materias/2026-11-24/2026-11-24-02.md)
 
 ## 23 de novembro de 2026
 
