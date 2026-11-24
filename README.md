@@ -10,6 +10,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 - [Democratas têm maior bancada na Câmara dos Estados Unidos desde 1992](materias/2026-11-23/2026-11-23-02.md)
 - [Ucrânia diz ter afundado navio de guerra russo em porto da Líbia](materias/2026-11-23/2026-11-23-03.md)
 - [Chanceler da Argentina põe em dúvida a reeleição de Lula](materias/2026-11-23/2026-11-23-04.md)
+- [Nvidia devolve comando a Jensen Huang após pressão de Trump](materias/2026-11-23/2026-11-23-05.md)
 
 ## 20 de novembro de 2026
 
