@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 25 de novembro de 2026
 
 - [Atividade da Argentina cai e indica recessão técnica sob Milei](materias/2026-11-25/2026-11-25-01.md)
+- [Estados Unidos propõem tarifar aviões e açúcar do Brasil](materias/2026-11-25/2026-11-25-02.md)
 
 ## 24 de novembro de 2026
 
