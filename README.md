@@ -4,6 +4,10 @@ Matérias escritas dos Shorts de política e economia internacional, com a fonte
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
+## 26 de novembro de 2026
+
+- [China diz que pode reagir às novas tarifas dos Estados Unidos](materias/2026-11-26/2026-11-26-01.md)
+
 ## 25 de novembro de 2026
 
 - [Atividade da Argentina cai e indica recessão técnica sob Milei](materias/2026-11-25/2026-11-25-01.md)
