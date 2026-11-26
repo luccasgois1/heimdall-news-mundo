@@ -7,6 +7,7 @@ As matérias de política brasileira ficam em [Heimdall News](https://github.com
 ## 26 de novembro de 2026
 
 - [China diz que pode reagir às novas tarifas dos Estados Unidos](materias/2026-11-26/2026-11-26-01.md)
+- [Macron chama carne brasileira de dopada e exportadores reagem](materias/2026-11-26/2026-11-26-02.md)
 
 ## 25 de novembro de 2026
 
