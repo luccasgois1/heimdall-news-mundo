@@ -1,6 +1,6 @@
 # Heimdall News, edição internacional
 
-Matérias escritas dos Shorts de política e economia internacional, com a fonte de cada informação, para quem quiser conferir.
+Matérias de política e economia internacional, com a fonte de cada informação, para quem quiser conferir.
 
 As matérias de política brasileira ficam em [Heimdall News](https://github.com/luccasgois1/heimdall-news).
 
